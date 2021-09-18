@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Said Taleb
 
 <!--
 **saidtaleb/saidtaleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![saidtaleb's github stats](https://github-readme-stats.vercel.app/api?username=saidtaleb&show_icons=true&theme=dracula)
